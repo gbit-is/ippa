@@ -6,7 +6,8 @@ uses that token to make another call and recieves a json with active shipments
 prints out that JSON  
 
 #### So, What can I use this project for ?
-Standalone, nothing. This is not intended as some fully featured software, just a small code showcase
+Standalone, nothing.   
+This is not intended as some fully featured software, just a small code showcase
 
 
 # Prerequisites
