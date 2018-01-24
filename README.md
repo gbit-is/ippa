@@ -10,7 +10,7 @@ Standalone, nothing. This is not intended as some fully featured software, just 
 
 
 # Prerequisites
-Python3
+Python3   
 Account at mappan.is/postbox  
 
 # Usage
