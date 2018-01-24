@@ -11,8 +11,6 @@ Standalone, nothing. This is not intended as some fully featured software, just 
 
 # Prerequisites
 Python3
-requests   
-json   
 Account at mappan.is/postbox  
 
 # Usage
